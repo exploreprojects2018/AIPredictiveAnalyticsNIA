@@ -47,10 +47,6 @@ Algorithms:
 Consoles:
 •	Ipython-console 
 
-Screenshots:
-DataAnalysis(Future Analysis) 
-Artificial Neural Network Model(Learning Model): 
-Decision tree
 Result:
   Accuracy of 82.1%.
 -
